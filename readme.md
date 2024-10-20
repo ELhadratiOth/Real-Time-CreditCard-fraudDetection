@@ -2,6 +2,10 @@
 
 This project implements a real-time Credit Card anomaly detection system using Kafka for data streaming, an Isolation Forest machine learning model for anomaly detection, and DynamoDB for real-time data storage. The frontend application, built with React, displays the processed data to real-time users.
 
+## Architecture Image
+![Alt text](Testing_img_/Archi.png)
+
+
 ## Architecture Overview
 
 The system is designed to handle real-time data ingestion, processing, and anomaly detection using the following components:
