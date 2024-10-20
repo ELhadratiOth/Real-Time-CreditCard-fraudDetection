@@ -1,0 +1,5 @@
+kafka-ec2-e=instance.pem
+run_ec2_instance.bat
+Lambda_Arch/Stream_Layer/FrontEnd/.env
+Lambda_Arch/Stream_Layer/FrontEnd/node_modules
+ML_Model/data/creditcard.csv
